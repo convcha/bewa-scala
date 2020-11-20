@@ -279,6 +279,7 @@
       <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
     </SQLiteCodeStyleSettings>
     <ScalaCodeStyleSettings>
+      <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
       <option name="FORMATTER" value="1" />
     </ScalaCodeStyleSettings>
     <SqlCodeStyleSettings version="2">
